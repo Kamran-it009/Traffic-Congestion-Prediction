@@ -7,3 +7,6 @@
     * pip install requirements.txt
 5) Run the project using the following command.
     * streamlit run main.py
+
+Note: the models can be downloaded from the following link:
+* https://drive.google.com/file/d/18nJoZv69Ec2szWEkt6_W2_emffd5KIF6/view?usp=sharing
